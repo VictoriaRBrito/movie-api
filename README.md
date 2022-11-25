@@ -26,4 +26,12 @@ npm install --save uuid
 npm i
 ```
 
+<h2> :dart: Testes</h2>
+
+- Abra o terminal e digite o comando, no diretório do projeto
+
+```
+npm test
+```
+
 <h1 align="center">You're ready to go :white_check_mark:</h1>
